@@ -229,3 +229,4 @@
 | Basics of Web Design Principles | Understand fundamental principles of web design. | Beginner |
 | **Coding Style and Code Reviews** | | |
 | Consistent Coding Style, Code Review Best Practices | Learn the importance of consistent coding style and best practices for code reviews. | Beginner |
+
