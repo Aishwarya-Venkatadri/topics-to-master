@@ -97,3 +97,45 @@
 | Topic                                     | Description                                                                                     |
 | ------------------------------------------ | --------------------------------------------------------------------------------------------------- |
 | Basics of GraphQL                            | Understand the fundamentals of GraphQL.                                                           |
+
+
+
+
+
+
+# React.js Mastery Roadmap
+
+| Topic                                               | Description                                                         | Difficulty Level | Resource URL                                           |
+|-----------------------------------------------------|---------------------------------------------------------------------|-------------------|--------------------------------------------------------|
+| **Foundational Concepts**                            |                                                                     |                   |                                                        |
+| React Basics                                        | Learn the fundamentals of React.js.                                 | Beginner          | [React Documentation](https://reactjs.org/docs/getting-started.html) |
+| JSX and React Elements                              | Understand JSX syntax and creating React elements.                 | Beginner          | [JSX Introduction](https://reactjs.org/docs/introducing-jsx.html) |
+| Components and Props                                 | Explore the concept of components and props in React.               | Beginner          | [Components and Props](https://reactjs.org/docs/components-and-props.html) |
+| State and Lifecycle                                  | Learn about component state and lifecycle methods.                  | Intermediate      | [State and Lifecycle](https://reactjs.org/docs/state-and-lifecycle.html) |
+| **Hooks and Function Components**                    |                                                                     |                   |                                                        |
+| Introducing Hooks                                   | Understand React Hooks and their use in functional components.     | Intermediate      | [Hooks Overview](https://reactjs.org/docs/hooks-overview.html) |
+| useState and useEffect Hooks                        | Explore the useState and useEffect hooks for managing state and side effects. | Intermediate      | [useState](https://reactjs.org/docs/hooks-state.html) and [useEffect](https://reactjs.org/docs/hooks-effect.html) |
+| Advanced Hooks (useReducer, useContext)             | Dive into advanced hooks like useReducer and useContext.            | Advanced          | [useReducer](https://reactjs.org/docs/hooks-reference.html#usereducer) and [useContext](https://reactjs.org/docs/hooks-reference.html#usecontext) |
+| **Advanced React Concepts**                         |                                                                     |                   |                                                        |
+| Context API                                         | Understand and use the Context API for state management.           | Intermediate      | [Context API](https://reactjs.org/docs/context.html)      |
+| Higher-Order Components (HOCs)                      | Explore HOCs for component composition.                            | Intermediate      | [HOCs](https://reactjs.org/docs/higher-order-components.html) |
+| Render Props Pattern                                | Learn the Render Props pattern for component abstraction.           | Intermediate      | [Render Props](https://reactjs.org/docs/render-props.html) |
+| **Routing in React**                                |                                                                     |                   |                                                        |
+| React Router                                        | Implement client-side routing in React applications.               | Intermediate      | [React Router](https://reactrouter.com/web/guides/quick-start) |
+| Nested Routing                                      | Explore nested routing for more complex applications.               | Advanced          | [Nested Routing](https://reactrouter.com/web/guides/quick-start) |
+| **State Management in React**                       |                                                                     |                   |                                                        |
+| Redux                                               | Learn state management with Redux.                                  | Advanced          | [Redux Documentation](https://redux.js.org/introduction/getting-started) |
+| Recoil (for managing state atomically)              | Explore Recoil for managing state atomically in React applications. | Advanced          | [Recoil Documentation](https://recoiljs.org/docs/introduction/getting-started) |
+| **Testing React Applications**                      |                                                                     |                   |                                                        |
+| Jest and React Testing Library                     | Use Jest and React Testing Library for testing React components.   | Intermediate      | [Jest](https://jestjs.io/docs/getting-started) and [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/) |
+| Testing Hooks and Async Code                        | Test custom hooks and handle asynchronous code in tests.            | Intermediate      | [Testing Custom Hooks](https://react-hooks-testing-library.com/) |
+| **Optimizing Performance**                          |                                                                     |                   |                                                        |
+| React.memo and PureComponent                        | Optimize component performance with React.memo and PureComponent.   | Intermediate      | [React.memo](https://reactjs.org/docs/react-api.html#reactmemo) and [PureComponent](https://reactjs.org/docs/react-api.html#reactpurecomponent) |
+| Memoization Techniques (useMemo, useCallback)       | Understand and apply memoization techniques for performance.        | Intermediate      | [useMemo](https://reactjs.org/docs/hooks-reference.html#usememo) and [useCallback](https://reactjs.org/docs/hooks-reference.html#usecallback) |
+| **Server-Side Rendering (SSR) and Static Site Generation (SSG)** |                                                      |                   |                                                        |
+| Next.js                                             | Explore Next.js for server-side rendering and static site generation. | Advanced          | [Next.js Documentation](https://nextjs.org/docs/getting-started) |
+| **Advanced React Patterns**                         |                                                                     |                   |                                                        |
+| Compound Components                                 | Design compound components for enhanced flexibility.               | Advanced          | [Compound Components](https://kentcdodds.com/blog/compound-components-with-react-hooks) |
+| Controlled vs Uncontrolled Components               | Understand the difference between controlled and uncontrolled components. | Advanced          | [Controlled vs Uncontrolled](https://reactjs.org/docs/uncontrolled-components.html) |
+| Custom Hooks                                        | Create custom hooks for reusable logic in React components.        | Advanced          | [Custom Hooks](https://reactjs.org/docs/hooks-custom.html) |
+
